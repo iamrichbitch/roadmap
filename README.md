@@ -38,7 +38,7 @@ $iamrichbitch (RICH) #airdrop.
  * [ ] #Gate.io
  * [ ] #ByBit
 
-# What is I Am Rich Bitch: For Those Who Just Want to Be Rich!"
+# What is I Am Rich Bitch: For Those Who Just Want to Be Rich!
 💰 Hey there! Are you one of those who just want to be rich? Well, you're in the right
 place. $iamrichbitch (RICH) is exactly what you need! 
 
