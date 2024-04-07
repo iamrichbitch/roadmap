@@ -3,7 +3,7 @@
 # $iamrichbitch Presale is live!🚀
 
 ## 📆 Launch Date : #Raydium , right after #presale
- * [x] Begin: April 8nd 
+ * [x] Live
  * [ ] End: April 14th - 10:00 UTC
 ### How to buy presale ?
 Send Sol to address :👇
