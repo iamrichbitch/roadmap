@@ -33,15 +33,9 @@ The token will launch upon reaching 100 SOL liquidity, and for every 1 SOL you s
  * [ ] #Raydium
  * [ ] #CoinMarketCap
  * [ ] #MEXC
+ * [ ] #BingX
  * [ ] #Gate.io
- * [ ] #BayBit
- * [ ] #Bitfinex
- * [ ] #Bitay
- * [ ] #Hotbit
- * [ ] #HTX
- * [ ] #ICRYPEX
- * [ ] Binance
- * [ ] #Bithget
+ * [ ] #ByBit
 
 # What is I Am Rich Bitch: For Those Who Just Want to Be Rich!"
 💰 Hey there! Are you one of those who just want to be rich? Well, you're in the right
