@@ -33,6 +33,7 @@ $iamrichbitch (RICH) #airdrop.
 ## 📆 Listing on stock exchanges
  * [ ] #Raydium
  * [ ] #CoinMarketCap
+ * [ ] #CoinGecko
  * [ ] #MEXC
  * [ ] #BingX
  * [ ] #Gate.io
