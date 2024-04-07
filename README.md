@@ -1,6 +1,8 @@
+
+
 # $iamrichbitch Presale is live!🚀
 
-## 📆 Launch Date : #Raydium , right after #presale ended
+## 📆 Launch Date : #Raydium , right after #presale
  * [x] Begin: April 8nd 
  * [ ] End: April 14th - 10:00 UTC
 ### How to buy presale ?
