@@ -16,7 +16,8 @@ Tax:Buy/Sell % 0 ✅
 
 🚨 Important: Please do not send SOL directly from an exchange (cex). 
 (We cannot send tokens back to you). Early participants will receive more tokens. 
-The token will launch upon reaching 100 SOL liquidity, and for every 1 SOL you send, you will receive a 10.000 $iamrichbitch (RICH) #airdrop.
+The token will launch upon reaching 100 SOL liquidity, and for every 1 SOL you send, you will receive a 10.000 
+$iamrichbitch (RICH) #airdrop.
 
  * [ ] ░░░░░░░░░░ 10 $Sol
  * [ ] ░░░░░░░░░░ 20 $Sol
