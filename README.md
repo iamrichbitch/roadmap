@@ -37,6 +37,7 @@ $iamrichbitch (RICH) #airdrop.
  * [ ] #BingX
  * [ ] #Gate.io
  * [ ] #ByBit
+ * [ ] #Kucoin
 
 # What is I Am Rich Bitch: For Those Who Just Want to Be Rich!
 💰 Hey there! Are you one of those who just want to be rich? Well, you're in the right
